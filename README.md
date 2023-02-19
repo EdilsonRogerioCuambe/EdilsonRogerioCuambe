@@ -1,4 +1,4 @@
-### Olá"! Eu me chamo Edilson Cuambe 👋
+### Olá! Eu me chamo Edilson Cuambe 👋
 
 [![card](https://github-readme-stats.vercel.app/api?username=EdilsonRogerioCuambe&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonRogerioCuambe&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
