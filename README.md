@@ -1,10 +1,7 @@
 # Olá! Eu sou Edilson Cuambe 👋
 
-## Estatísticas do GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=EdilsonRogerioCuambe&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Linguagens Principais
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonRogerioCuambe&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdilsonRogerioCuambe&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonRogerioCuambe&hide=html&layout=compact&theme=tokyonight)
 
 ## Tecnologias
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30"> JavaScript
