@@ -1,7 +1,9 @@
 # Olá! Eu sou Edilson Cuambe 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdilsonRogerioCuambe&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonRogerioCuambe&hide=html&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdilsonRogerioCuambe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonRogerioCuambe&layout=compact&theme=tokyonight&hide=html&langs_count=8&cache_seconds=86400"/>
+</div>
 
 ## Tecnologias
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30"> JavaScript
